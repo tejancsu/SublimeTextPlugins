@@ -1,0 +1,6 @@
+[
+  {
+    "command": "copy_file_name",
+    "keys": ["ctrl+alt+m"]
+  }
+]
